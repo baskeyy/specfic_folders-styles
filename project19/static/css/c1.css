@@ -1,0 +1,10 @@
+h1
+{
+    background-color: aqua;
+    color: red;
+}
+p
+{
+    color: blue;
+    background-image: -moz-element(red,blue);
+}
